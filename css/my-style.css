@@ -1,0 +1,46 @@
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+body {
+
+        font-family: 'open sans', serif;
+        background-color: #D6D3C5;
+
+}
+
+header #logo {
+
+        float:left;
+        width:400px;
+        background-color:#D6D3C5;
+
+}
+
+nav {
+        float:right;
+        padding-top: 50px;
+        font-size: 20px;
+
+}
+
+a:hover {color:white;}
+
+
+
+
+
+
+
+
+
+a {
+    text-decoration:none;
+    color: black;
+    margin:40px;
+
+
+
+}
