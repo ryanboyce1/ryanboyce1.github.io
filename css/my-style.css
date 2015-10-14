@@ -7,6 +7,7 @@
 body {
     font-family: 'open sans', serif;
     background-color: #D6D3C5;
+    width:auto;
 }
 
 header {
@@ -24,10 +25,22 @@ header #logo {
     margin: 10px;
 }
 
+header ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    
+}
+header li {
+    display: inline;
+
+}
+
 nav {
     float: right;
     padding-top: 50px;
     font-size: 18px;
+    
 }
 
 hr {
@@ -78,7 +91,7 @@ hr {
         margin: 0 auto;
         border: 2px solid #454545;
         display:flex;
-     
+        margin-bottom: 10px;
 }
 
 #img1 {
@@ -95,6 +108,7 @@ hr {
 #box1 h1{
         font-size:3em;
         font-family:'gothic', serif;
+        
 }
 
 #des1 { 
