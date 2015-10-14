@@ -100,11 +100,19 @@ hr {
    
 }
 
+#des1 p {
+    margin-top: -50px;
 
+}
+
+#des1 hr {
+    margin-bottom:40px
+}
 
 #box1 h1 {
     font-size: 3em;
     font-family: 'gothic', serif;
+    margin-bottom: 20px;
 }
 
 #des1 {
