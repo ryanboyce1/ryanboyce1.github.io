@@ -7,20 +7,19 @@
 body {
     font-family: 'open sans', serif;
     background-color: #D6D3C5;
-    
+
+    margin:0 auto;
 }
 
-header     {
-    display:flex
+header {
+    display: flex
 }
-
-
 
 header #logo {
     float: left;
     width: 400px;
     background-color: #D6D3C5;
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
 .social {
@@ -58,7 +57,10 @@ hr {
     background-repeat: no-repeat;
     background-size: cover;
     color: #D6D3C5;
-    margin-bottom: 10px;
+    width: 900px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    
 }
 
 #landing h2 {
@@ -84,31 +86,30 @@ hr {
 
 #box1 {
     height: 300px;
-    width: ;
     margin: 0 auto;
     border: 2px solid #454545;
     display: flex;
     margin-bottom: 10px;
+    width: 1000px;
+    padding:15px
 }
 
 #img1 {
     background-image: url('../img/happyhour.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size:cover;
+    background-size: cover;
     float: left;
     width: 460px;
     height: 300px;
-   
 }
 
 #des1 p {
     margin-top: -50px;
-
 }
 
 #des1 hr {
-    margin-bottom:40px
+    margin-bottom: 40px
 }
 
 #box1 h1 {
@@ -133,38 +134,37 @@ hr {
     background-color: #296229;
     border-radius: 50px;
     text-decoration: none;
-   
 }
 
 
-#4section {
-    height:600px;
-    width:auto;
-    background-color:blue;
-    clear:both;
-    margin-bottom: 30px;
+
+.img {
+    height: 200px;
+    width: 200px;
+    margin-top: 60px;
+    border-radius: 100px
 }
 
 .column {
-    height:600px;
+    height: 600px;
     width: 280px;
-    float:left;
+    float: left;
     margin: 0 auto;
-    margin: 14px;
-    border: 1px solid black;
-    text-align:center;
+    margin: 13px;
+    text-align: center;
+    background-color: #D6D3C5;
 }
 
 a:hover {
     color: white;
 }
 
-#landinglink:hover{
+#landinglink:hover {
     background-color: #D6D3C5;
     color: black;
 }
 
-#hh:hover{
+#hh:hover {
     background-color: black;
     color: #D6D3C5;
 }
