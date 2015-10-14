@@ -10,7 +10,7 @@ body {
     
 }
 
-header {
+header     {
     display:flex
 }
 
@@ -147,7 +147,7 @@ hr {
 
 .column {
     height:600px;
-    width: 300px;
+    width: 280px;
     float:left;
     margin: 0 auto;
     margin: 14px;
