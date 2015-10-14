@@ -133,10 +133,27 @@ hr {
     background-color: #296229;
     border-radius: 50px;
     text-decoration: none;
-    margin-bottom: 
+   
 }
 
 
+#4section {
+    height:600px;
+    width:auto;
+    background-color:blue;
+    clear:both;
+    margin-bottom: 30px;
+}
+
+.column {
+    height:600px;
+    width: 300px;
+    float:left;
+    margin: 0 auto;
+    margin: 14px;
+    border: 1px solid black;
+    text-align:center;
+}
 
 a:hover {
     color: white;
