@@ -54,7 +54,7 @@ hr {
     transform: scaleY(1.8);
     letter-spacing: .1em;
     margin-bottom: 100px;
-    font-family: gothic;
+    font-family: 'gothic', serif;
     
 }
 
@@ -93,14 +93,15 @@ hr {
 }
 
 #box1 h1{
-        font-size:2em;
+        font-size:3em;
+        font-family:'gothic', serif;
 }
 
 #des1 { 
     width:750px;
-    height: 300px;
+    height: 220px;
     float:right;
-    margin-top: 50px;
+    padding:40px;
     text-align:center;
 
     
