@@ -72,11 +72,12 @@ hr {
 }
 
 #img1 {
+        background-image: url('../img/happyhour.jpg');
+    background: linear-gradient(to bottom, rgba(20, 20, 20, 0.9) 0%, rgba(0, 0, 0, 0.8) 100%), url('../img/happyhour.jpg') no-repeat center;
         float:left;
         width:350px;
         height:300px;
         
-        background-color:black;
 }
 
 #box1 h1{
@@ -87,10 +88,10 @@ hr {
     width:760px;
     height: 300px;
     float:right;
-    margin-top: 90px;
+    margin-top: 10px;
     text-align:center;
     float:right;
-    margin:70px;
+    margin-right: 100px;
     
     
 }
@@ -112,10 +113,3 @@ a {
     margin: 30px;
 }
 
-#img1:hover {
-        float:left;
-        width:350px;
-        height:300px;
-        opacity: 0.9;
-        background-color:black;
-}
