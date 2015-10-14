@@ -93,6 +93,7 @@ hr {
     background-image: url('../img/happyhour.jpg');
     background-repeat: no-repeat;
     background-position: center;
+    background-size:cover;
     float: left;
     width: 460px;
     height: 300px;
