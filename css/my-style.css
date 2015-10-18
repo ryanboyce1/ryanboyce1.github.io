@@ -11,15 +11,15 @@ body {
 }
 
 header {
-    position: fixed;
+    
     top: 0;
-    width: 100%;
+    max-width: 100%;
     background-color: #D6D3C5;
 }
 
 header #logo {
     float: left;
-    width: 400px;
+    max-width: 400px;
     background-color: #D6D3C5;
     margin-left: 60px;
 }
@@ -43,6 +43,7 @@ nav {
     float: right;
     padding-top: 50px;
     font-size: 18px;
+    max-width: 770px;
 }
 
 hr     {
@@ -67,7 +68,7 @@ hr     {
     background-repeat: no-repeat;
     background-size: cover;
     color: #D6D3C5;
-    width: 900px;
+    max-width: 900px;
     margin: 0 auto;
     border-bottom: 30px;
 }
@@ -78,6 +79,8 @@ hr     {
     letter-spacing: .1em;
     margin-bottom: 100px;
     font-family: 'gothic', serif;
+    max-width: 900px;
+    
 }
 
 #lastpar {
@@ -91,6 +94,7 @@ hr     {
     background-color: #296229;
     border-radius: 50px;
     text-decoration: none;
+    max-width: 200px;
 }
 
 #box1 {
