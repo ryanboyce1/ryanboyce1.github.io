@@ -11,7 +11,6 @@ body {
 }
 
 header {
-    
     top: 0;
     max-width: 100%;
     background-color: #D6D3C5;
@@ -46,13 +45,11 @@ nav {
     max-width: 770px;
 }
 
-hr     {
+hr {
     border: 0;
     height: 2px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
-
-
 
 #landing {
     clear: both;
@@ -75,7 +72,6 @@ hr     {
     margin-bottom: 100px;
     font-family: 'gothic', serif;
     max-width: 900px;
-    
 }
 
 #lastpar {
@@ -140,7 +136,6 @@ hr     {
     padding-bottom: 50px;
 }
 
-
 #hh {
     color: #D6D3C5;
     border: 1px solid #296229;
@@ -166,7 +161,6 @@ hr     {
     text-align: center;
     background-color: #D6D3C5;
 }
-
 
 #boggy {
     width: 450px;
@@ -242,7 +236,6 @@ a:hover {
     background-color: #D6D3C5;
     color: black;
 }
-
 
 a {
     text-decoration: none;
