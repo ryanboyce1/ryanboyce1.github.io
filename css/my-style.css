@@ -10,8 +10,13 @@ body {
     margin: 0 auto;
 }
 
+
+
+/********* HEADER AND NAV LINKS **********/
+/********* HEADER AND NAV LINKS **********/
+
 header {
-    top: 0;
+   
     max-width: 100%;
     background-color: #D6D3C5;
 }
@@ -51,6 +56,10 @@ hr {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
 
+
+/********* MAIN LANDING **********/
+/********* MAIN LANDING **********/
+
 #landing {
     clear: both;
     background-image: url(../img/web-image-2.jpg);
@@ -88,6 +97,9 @@ hr {
     max-width: 200px;
 }
 
+
+/********* HAPPY HOUR!! **********/
+/********* HAPPY HOUR!! **********/
 #box1 {
     height: 300px;
     margin: 0 auto;
@@ -132,9 +144,7 @@ hr {
     margin-bottom: 10px;
 }
 
-.job {
-    padding-bottom: 50px;
-}
+
 
 #hh {
     color: #D6D3C5;
@@ -145,11 +155,18 @@ hr {
     text-decoration: none;
 }
 
+/********* 4 Column Section **********/
+/********* 4 Column Section **********/
+
 .img {
     height: 200px;
     width: 200px;
     margin-top: 60px;
     border-radius: 100px
+}
+
+.job {
+    padding-bottom: 50px;
 }
 
 .column {
@@ -162,6 +179,8 @@ hr {
     background-color: #D6D3C5;
 }
 
+/********* 2 Horizontal Pics(PRODUCE) **********/
+/********* 2 Horizontal Pics(PRODUCE) **********/
 #boggy {
     width: 450px;
     height: 500px;
@@ -188,6 +207,9 @@ hr {
 #farms {
     margin-bottom: 30px;
 }
+
+/********* BOTTOM SECTION/RESERVATIONS **********/
+/********* BOTTOM SECTION/RESERVATIONS **********/
 
 #reservations {
     clear: both;
