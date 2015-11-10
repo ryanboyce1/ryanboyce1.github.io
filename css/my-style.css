@@ -7,6 +7,7 @@ html {
 body {
     font-family: 'Gothic';   
     height:100%;
+    background-color:#D6D3C5;
 }
 .navbar-default {
     
@@ -46,10 +47,10 @@ i:hover {
     color:black;
 }
 
-i {color:white;}
+i { color:white;}
 
 #hero {
-        border-bottom: 10px solid black;
+    border-bottom: 10px solid black;
     
     
 }
@@ -57,10 +58,7 @@ i {color:white;}
 #movie {
     
     
-    margin-top: 480px;
-    width:532px;
-    border-radius:5px;
-    background-color:black;
+    margin-top: 219px;
     
     
     
@@ -69,6 +67,7 @@ i {color:white;}
 .h1vid {
     color: #D6D3C5;
     text-align:center;
+    margin-left:75px;
     
 }
 
@@ -80,6 +79,7 @@ i {color:white;}
 
 #hero {
     background-image:url(../IMG/web-image-2.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../IMG/web-image-2.jpg');
     background-repeat: no-repeat;
     background-position: center;       
     background-size:cover;
@@ -87,12 +87,31 @@ i {color:white;}
     height:100%;
 }
 
+.pics {
+    background-image:url(../IMG/eggplant.jpg);
+    background-repeat: no-repeat;
+    background-position: center;       
+    background-size:cover;
+    height:100px;
+    
+}
+
+
+
+
+
 @media screen and (max-width: 1214px) {
     
     .navbar-nav
     {   background-color:#D6D3C5;
-        border-radius:50px;
+        border-radius:10px;
         margin: 0 auto;}
+    
+    
+}
+
+.splashrow {
+    
     
     
 }
