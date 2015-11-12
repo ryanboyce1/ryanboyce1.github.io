@@ -203,9 +203,10 @@ FOUR COLUMN SECTION
 
 a{
     color:#C6A35D;
-    margin-bottom: 50px;
     
 }
+
+
 
     
 
@@ -219,6 +220,14 @@ a{
 @media screen and (max-width: 767px) {
     .merch {
         height:800px;
+        
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    .merch {
+        height:500px;
     }
 }
 
