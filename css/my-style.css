@@ -118,7 +118,8 @@ BIG LANDING PAGE
 
 .xshours {
     font-size: 20px;
-    color:#FDFDFD
+    color:#FDFDFD;
+    text-align:center;
 }
     
 
@@ -206,6 +207,14 @@ a{
     
 }
 
+/**********
+PHONE ADDRESS+NUMBER
+**********/
+
+.visiblexs {
+    text-align:center;
+    
+}
 
 
     
