@@ -184,6 +184,45 @@ hr {
 
 
 /**********
-4 COLUMN SECTION
+FOUR COLUMN SECTION
 **********/
+
+.merchandise h1 {
+    text-align:center;
+    margin-bottom:100px;
+    
+}
+
+.merch {
+    
+    height: 400px;
+    text-align:center;
+    font-size: 1em;
+}
+
+.merch > a{
+    
+    color:#C6A35D;
+    
+}
+    
+
+
+@media screen and (max-width: 991px) {
+    .merch {
+        height:600px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .merch {
+        height:800px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .merch {
+        height:500px;
+    }
+}
 
