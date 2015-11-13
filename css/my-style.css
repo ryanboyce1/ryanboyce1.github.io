@@ -227,7 +227,7 @@ SECOND TWO COLUMN SECTION
 
 .twocol {
     height:400px;
-    
+    margin-top:40px;
     
 }
 
@@ -259,13 +259,16 @@ BOTTOM BOX+LINKS
 
 .bottombox {
     height:350px;
-    border: 1px solid white;
     text-align:center;
     padding-left:100px;
     padding-right:100px;
+    margin-bottom:20px;
 }
 
-
+.btn {
+    width:156px;
+    background-color:#C6A35D;
+}
 
 
 /**********
