@@ -323,3 +323,9 @@ MEDIA QUERIES
         height:150px;
     }
 }
+
+@media screen and (max-width: 900px) {
+    .landingpar {
+        color:#C6A35D
+    }
+}
