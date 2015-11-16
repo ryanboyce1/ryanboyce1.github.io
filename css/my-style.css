@@ -265,6 +265,10 @@ BOTTOM BOX+LINKS
     background-color: #C6A35D;
 }
 
+.btn:hover {
+    background-color:#FF555B;
+}
+
 .bottomstripe {
     height:100px;
     background-image:url(../img/strips.gif);
