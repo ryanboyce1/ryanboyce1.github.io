@@ -318,14 +318,15 @@ MEDIA QUERIES
 }
 
 @media screen and (max-width: 500px) {
-    .logo {
+    .logo{
         width:150px;
         height:150px;
     }
 }
 
 @media screen and (max-width: 900px) {
-    .landingpar {
-        color:#C6A35D
+    .landingpar, .hours {
+        color:#FF555B;
+        
     }
 }
