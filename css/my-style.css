@@ -258,6 +258,7 @@ BOTTOM BOX+LINKS
     background-size: cover;
     width:100%;
     margin-left:none;
+    margin-top:-100px;
     
     
 }
