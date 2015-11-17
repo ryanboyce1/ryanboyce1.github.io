@@ -10,16 +10,16 @@ body {
 }
 
 
-/**********
+/********************
 NAVIGATION BAR 
-**********/
+********************/
 
 .navbar-default {
     color: #000000;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 150;
+    height: 100px;
     font-family: 'Dosis', sans-serif;
 }
 
@@ -59,9 +59,9 @@ i {
 }
 
 
-/**********
+/********************
 BIG LANDING PAGE
-**********/
+********************/
 
 .landingdiv {
     margin-top: 50px;
@@ -129,9 +129,9 @@ BIG LANDING PAGE
 
 
 
-/**********
+/********************
 TWO COLUMN SECTION 1
-**********/
+********************/
 
 hr {
     padding: 0;
@@ -169,9 +169,9 @@ hr {
 }
 
 
-/**********
+/********************
 FOUR COLUMN SECTION
-**********/
+********************/
 
 .merchandise h1 {
     text-align: center;
@@ -206,9 +206,9 @@ a:hover {
 }
 
 
-/**********
+/********************
 PHONE ADDRESS+NUMBER+MAP
-**********/
+********************/
 
 .visiblexs {
     text-align: center;
@@ -219,9 +219,9 @@ PHONE ADDRESS+NUMBER+MAP
 }
 
 
-/**********
+/********************
 SECOND TWO COLUMN SECTION
-**********/
+********************/
 
 .twocol {
     height: 400px;
@@ -256,9 +256,9 @@ SECOND TWO COLUMN SECTION
 }
 
 
-/**********
+/********************
 BOTTOM BOX+LINKS
-**********/
+********************/
 
 .bottombox {
     height: 350px;
@@ -291,9 +291,9 @@ BOTTOM BOX+LINKS
 }
 
 
-/**********
+/********************
 MEDIA QUERIES
-**********/
+********************/
 
 @media screen and (max-width: 991px) {
     .merch {
