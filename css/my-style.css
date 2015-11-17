@@ -74,7 +74,7 @@ BIG LANDING PAGE
     background-size: cover;
     margin-top: 100px;
     min-height: 95%;
-    margin-bottom:40px;
+    margin-bottom: 40px;
 }
 
 #leftheader {
@@ -94,9 +94,9 @@ BIG LANDING PAGE
 }
 
 .headerright {
-    border:3px solid #C6A35D;
-    margin-top:100px;
-    border-radius:40px;
+    border: 3px solid #C6A35D;
+    margin-top: 100px;
+    border-radius: 40px;
 }
 
 #bottomheader {
@@ -122,10 +122,6 @@ BIG LANDING PAGE
     color: white;
     font-size: 1.5em;
 }
-
-
-
-
 
 
 /********************
@@ -189,9 +185,8 @@ a {
 }
 
 a:hover {
-    color:#FF555B;
-    text-decoration:none;
-    
+    color: #FF555B;
+    text-decoration: none;
 }
 
 .merchhr {
@@ -201,7 +196,7 @@ a:hover {
 .merchimg {
     border-radius: 10px;
     border: 3px solid #C6A35D;
-    padding:3px;
+    padding: 3px;
 }
 
 
@@ -212,9 +207,9 @@ PHONE ADDRESS+NUMBER+MAP
 .visiblexs {
     text-align: center;
 }
+
 .map {
-    width:100%;
-    
+    width: 100%;
 }
 
 
@@ -228,9 +223,8 @@ SECOND TWO COLUMN SECTION
 }
 
 #aboutus {
-    text-align:center;
-    margin-bottom:50px;
-    
+    text-align: center;
+    margin-bottom: 50px;
 }
 
 .twoleft {
@@ -273,20 +267,18 @@ BOTTOM BOX+LINKS
 }
 
 .btn:hover {
-    background-color:#FF555B;
+    background-color: #FF555B;
 }
 
 .bottomstripe {
-    height:100px;
-    background-image:url(../img/strips.gif);
+    height: 100px;
+    background-image: url(../img/strips.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width:100%;
-    margin-left:none;
-    margin-top:-100px;
-    
-    
+    width: 100%;
+    margin-left: none;
+    margin-top: -100px;
 }
 
 
@@ -325,9 +317,8 @@ MEDIA QUERIES
 }
 
 @media screen and (max-width: 500px) {
-    .logo{
-        width:150px;
-        height:150px;
+    .logo {
+        width: 150px;
+        height: 150px;
     }
 }
-
