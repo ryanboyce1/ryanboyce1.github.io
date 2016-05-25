@@ -73,10 +73,10 @@ BIG LANDING PAGE
 
 
 .hero {
-    background-image: url(../img/Lighbulb.jpg);
+    background-image: url(../img/placeholder.jpg);
     background-repeat:no-repeat;
     background-position: center; 
-    background-size: cover;
+    background-size: contain;
     margin-top: 200px;
     height:400px;
     margin-bottom: 40px;
@@ -97,12 +97,12 @@ BIG LANDING PAGE
 }
 
 .allhr {
-    color:white;
     height: 30px;
     border-style: solid;
-    border-color: white;
+    border-color: #C6A35D;
     border-width: 1px 0 0 ;
     border-radius: 20px;
+    
 }
 hr.allhr:before { /* Not really supposed to work, but does */
     display: block;
@@ -110,9 +110,10 @@ hr.allhr:before { /* Not really supposed to work, but does */
     height: 30px;
     margin-top: -31px;
     border-style: solid;
-    border-color: white;
+    border-color: #C6A35D;
     border-width: 0 0 1px 0;
     border-radius: 20px;
+    
 }
 
 /********************
@@ -201,6 +202,12 @@ p{
     font-size: 18px;
     
 }
+
+.footer-distributed {
+    background-color:black;
+    margin-top:-40px;
+}
+
 
 
 
