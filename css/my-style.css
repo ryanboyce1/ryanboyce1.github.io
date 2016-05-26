@@ -48,11 +48,13 @@ NAVIGATION BAR
     font-size: 24px;
     font-family: 'Dosis', sans-serif;
     padding: none;
-    font-weight: bold;
+    
+
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-    color: #C6A35D;
+    text-decoration:underline;
+  
 }
 
 nav.navbar.navbar-default.navbar-fixed-top {
@@ -166,8 +168,8 @@ One Liner with Button
 .allhr {
     color: white;
     height: 30px;
-    border-style: solid;
-    border-color: #33383B;
+    border-style: dotted;
+    border-color: #5b6f7b;
     border-width: 1px 0 0;
     border-radius: 20px;
 }
@@ -178,7 +180,7 @@ hr.allhr:before {
     content: "";
     height: 30px;
     margin-top: -31px;
-    border-style: solid;
+    border-style: dotted;
     border-color: ;
     border-width: 0 0 1px 0;
     border-radius: 20px;
@@ -221,7 +223,7 @@ p {
     line-height: 1.5;
     text-decoration: none;
     color: #33383B;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 
@@ -251,10 +253,8 @@ MEDIA QUERIES
         color: #00304D;
         font-size: 18px;
         font-family: 'Dosis', sans-serif;
-        margin-left: 14px;
-        padding: none;
-        font-weight: bold;
-        margin-left: -4px
+
+        
     }
     .navbar-default .navbar-nav>li>a:hover {
         color: #C6A35D;
@@ -280,10 +280,9 @@ MEDIA QUERIES
     }
     .navbar-default .navbar-nav>li>a {
         color: #00304D;
-        font-size: 20px;
+        font-size: 21px;
         font-family: 'Dosis', sans-serif;
         padding: none;
-        font-weight: bold;
     }
     .navbar-default {
         color: #33383B;
