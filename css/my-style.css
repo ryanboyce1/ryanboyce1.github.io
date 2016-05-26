@@ -217,10 +217,7 @@ MEDIA QUERIES
 
 
 @media screen and (max-width: 764px) {
-    .logo {
-        width: 200px;
-        height: 200px;
-    }
+    
 
     .hero {
         margin-top:225px
@@ -258,7 +255,7 @@ MEDIA QUERIES
     margin-top:18px;
     border: 2px solid saddlebrown;
     border-radius:5px;
-    width:145px;
+    width:160px;
     
    
 }
@@ -296,13 +293,17 @@ i {
     
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: none;
+        width:100%;
         
 }
     #example-navbar-collapse {
-        height:;
+        border-top:none;
         width:100%;
+        border-bottom:none;
         
         
     }
+
+
 
 }
