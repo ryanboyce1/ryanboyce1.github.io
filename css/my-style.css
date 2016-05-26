@@ -269,9 +269,8 @@ MEDIA QUERIES
     margin-bottom:10px;
     font-size:20px;
     
-    
-    
 }
+    
 
 .navbar-default .navbar-nav>li>a:hover {
     color: saddlebrown;
@@ -281,6 +280,7 @@ MEDIA QUERIES
     height: 70px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    border-bottom: 2px solid saddlebrown;
 }
 
 i:hover {
@@ -302,6 +302,14 @@ i {
         border-bottom:none;
         
         
+    }
+    
+    hr.allhr:before{
+      position:absolute;
+    }
+    .allhr {
+    position:absolute;
+    
     }
 
 
