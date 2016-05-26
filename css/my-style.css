@@ -9,9 +9,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color:#33383B;
+    color: #33383B;
 }
-
 
 
 /********************
@@ -24,28 +23,24 @@ NAVIGATION BAR
     background-position: center;
     background-size: cover;
     font-family: 'Dosis', sans-serif;
-    
-    
 }
 
 .logo {
     border-radius: 15px;
-    width:200px;
-    height:100px;
+    width: 200px;
+    height: 100px;
 }
 
 .navbar-default {
     background-color: #fff;
     border-color: #fff;
-    height:150;
-
+    height: 150;
 }
 
 .navbar-default .navbar-nav {
     margin-top: 50px;
     float: right;
     font-family: 'Dosis', sans-serif;
-   
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -53,7 +48,7 @@ NAVIGATION BAR
     font-size: 24px;
     font-family: 'Dosis', sans-serif;
     padding: none;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -65,42 +60,40 @@ nav.navbar.navbar-default.navbar-fixed-top {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+
 navbar-toggle:hover {
     border-color: #fff;
 }
-
-
 
 
 /********************
 BIG LANDING PAGE
 ********************/
 
-
 .hero {
     margin-top: 150px;
-    height:400px;
+    height: 400px;
     font-size: 20px;
-    text-align:center;
-    
+    text-align: center;
 }
 
-
-.aboutmepar{
-    font-size: 50px; 
-    width:100%;
-    margin:auto;
+.aboutmepar {
+    font-size: 50px;
+    width: 100%;
+    margin: auto;
 }
 
 .allhr {
-    color:71C3DD ;
+    color: 71C3DD;
     height: 30px;
     border-style: solid #33383B;
     border-color: #33383B;
     border-width: 1px 0 0;
     border-radius: 20px;
 }
-hr.allhr:before { /* Not really supposed to work, but does */
+
+hr.allhr:before {
+    /* Not really supposed to work, but does */
     display: block;
     content: "";
     height: 30px;
@@ -109,37 +102,47 @@ hr.allhr:before { /* Not really supposed to work, but does */
     border-color: #33383B;
     border-width: 0 0 1px 0;
     border-radius: 20px;
-    
 }
+
 
 /********************
 One Liner with Button
 ********************/
+
 .oneliner {
-    text-align:center;
+    text-align: center;
 }
 
-
-
-.btn-default, .btn-default:hover, .btn-default:focus, .btn-default:active, .dropdown-menu {
+.btn-default,
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.dropdown-menu {
     color: white;
     background-color: #33383B;
     border-color: #ccc;
-    width:200px;
-    font-weight:bold;
-    margin-top:30px;
-    margin-bottom:30px;
-    font-size:24px;
+    width: 200px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 24px;
     border: 3px solid #00304D;
-    
 }
 
-
-.btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
+.btn-default.active.focus,
+.btn-default.active:focus,
+.btn-default.active:hover,
+.btn-default:active.focus,
+.btn-default:active:focus,
+.btn-default:active:hover,
+.open>.dropdown-toggle.btn-default.focus,
+.open>.dropdown-toggle.btn-default:focus,
+.open>.dropdown-toggle.btn-default:hover {
     color: black;
     background-color: #33383B;
     border-color: black;
 }
+
 .dropdown-menu>li>a:hover {
     color: black;
     text-decoration: none;
@@ -147,25 +150,30 @@ One Liner with Button
 }
 
 .dropdown-menu {
-    color:white;
-    margin-top:-20px;
+    color: white;
+    margin-top: -20px;
 }
+
 .dropdown-menu>li>a {
-    color:white;
+    color: white;
 }
+
 
 /********************
 1st2column
 ********************/
+
 .allhr {
-    color:white;
+    color: white;
     height: 30px;
     border-style: solid;
     border-color: #33383B;
-    border-width: 1px 0 0 ;
+    border-width: 1px 0 0;
     border-radius: 20px;
 }
-hr.allhr:before { /* Not really supposed to work, but does */
+
+hr.allhr:before {
+    /* Not really supposed to work, but does */
     display: block;
     content: "";
     height: 30px;
@@ -177,208 +185,159 @@ hr.allhr:before { /* Not really supposed to work, but does */
 }
 
 .firsttwocolumn {
-    margin-top:75px;
-    text-align:center;
+    margin-top: 75px;
+    text-align: center;
     height: 500px;
 }
 
 .uglymug {
-    height:250px;
-    width:250px;
+    height: 250px;
+    width: 250px;
     border-radius: 125px;
-    margin:auto;
-    margin-top:75px;
+    margin: auto;
+    margin-top: 75px;
     border: 5px solid #33383B;
 }
 
-p{
-    margin:auto auto;
-    width:90%;
-    margin-top:75px;
+p {
+    margin: auto auto;
+    width: 90%;
+    margin-top: 75px;
     font-size: 18px;
-    
 }
 
 .footer-distributed {
-    background-color:white;
-    margin-top:-40px;
-    color:#00304D;
-    margin-top:-50.9px;
+    background-color: white;
+    margin-top: -40px;
+    color: #00304D;
+    margin-top: -50.9px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    border-top:1px solid;
+    border-top: 1px solid;
 }
 
 .footer-distributed p.footer-links a {
     display: inline-block;
     line-height: 1.5;
     text-decoration: none;
-    color:#33383B;
-    font-size:16px;
+    color: #33383B;
+    font-size: 16px;
 }
 
 
 /********************
 MEDIA QUERIES
 ********************/
-@media (max-width: 991px){
 
-  .navbar-default {
-    color: #000000;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    font-family: 'Dosis', sans-serif;
-      
-      
-     
-}
-
-
-
-.navbar-default {
-    background-color: #fff;
-    border-color: #fff;
-    height:175px;
-
-}
-
-.navbar-default .navbar-nav {
-    margin-top:1px;
-    float: right;
-    font-family: 'Dosis', sans-serif;
-   
-}
-
-.navbar-default .navbar-nav>li>a {
-    color: #00304D;
-    font-size: 18px;
-    font-family: 'Dosis', sans-serif;
-    margin-left: 14px;
-    padding: none;
-    font-weight:bold;
-    margin-left:-4px
-
-}
-
-.navbar-default .navbar-nav>li>a:hover {
-    color: #C6A35D;
-}
-
-nav.navbar.navbar-default.navbar-fixed-top {
-    height: 120px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-}
-navbar-toggle:hover {
-    border-color: #fff;
-}
-
-    
-
+@media (max-width: 991px) {
+    .navbar-default {
+        color: #000000;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        font-family: 'Dosis', sans-serif;
     }
+    .navbar-default {
+        background-color: #fff;
+        border-color: #fff;
+        height: 175px;
+    }
+    .navbar-default .navbar-nav {
+        margin-top: 1px;
+        float: right;
+        font-family: 'Dosis', sans-serif;
+    }
+    .navbar-default .navbar-nav>li>a {
+        color: #00304D;
+        font-size: 18px;
+        font-family: 'Dosis', sans-serif;
+        margin-left: 14px;
+        padding: none;
+        font-weight: bold;
+        margin-left: -4px
+    }
+    .navbar-default .navbar-nav>li>a:hover {
+        color: #C6A35D;
+    }
+    nav.navbar.navbar-default.navbar-fixed-top {
+        height: 120px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    navbar-toggle:hover {
+        border-color: #fff;
+    }
+}
+
 
 /********************
 MEDIA QUERIES
 ********************/
 
 @media screen and (max-width: 767px) {
-    
-
     .hero {
-        margin-top:225px
+        margin-top: 225px
     }
-  
     .navbar-default .navbar-nav>li>a {
-    color: #00304D;
-    font-size: 20px;
-    font-family: 'Dosis', sans-serif;
-    padding: none;
-    font-weight:bold;
-        
-}
-
-
-  
-.navbar-default {
-    color:#33383B;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    font-family: 'Dosis', sans-serif;
-    width:100%;
- 
-    
-}
-
-.logo {
-    width:200px;
-    height:100px;
-    border-radius:0px;
-    margin-left:30px;
-    
-}
-
-.navbar-default {
-    background-color: #fff;
-
-}
-
-.navbar-default .navbar-nav {
-    float: right;
-    font-family: 'Dosis', sans-serif;
-    margin-top:0px;
-    background-color:#71C3DD;
-    color:#0089BB;
-    margin-top:18px;
-    border: 2px solid #33383B;
-    border-radius:5px;
-    
-   
-    
-   
-}
-
-
-    
-
-    nav.navbar.navbar-default.navbar-fixed-top {
-    height: 119px;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    border-bottom: 2px solid #33383B;
-    
-}
-   
-i:hover {
-    color: #C6A35D;
-}
-
-i {
-    color: black;
-}
-    
-    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    border-color: none;
-        width:100%;
-        
-}
-    #example-navbar-collapse {
-        border-top:none;
-        width:100%;
-        border-bottom:none;
-        
-        
+        color: #00304D;
+        font-size: 20px;
+        font-family: 'Dosis', sans-serif;
+        padding: none;
+        font-weight: bold;
     }
-    
-    hr.allhr:before{
-      position:absolute;
+    .navbar-default {
+        color: #33383B;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        font-family: 'Dosis', sans-serif;
+        width: 100%;
+    }
+    .logo {
+        width: 200px;
+        height: 100px;
+        border-radius: 0px;
+        margin-left: 30px;
+    }
+    .navbar-default {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-nav {
+        float: right;
+        font-family: 'Dosis', sans-serif;
+        margin-top: 0px;
+        background-color: #71C3DD;
+        color: #0089BB;
+        margin-top: 18px;
+        border: 2px solid #33383B;
+        border-radius: 5px;
+    }
+    nav.navbar.navbar-default.navbar-fixed-top {
+        height: 119px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border-bottom: 2px solid #33383B;
+    }
+    i:hover {
+        color: #C6A35D;
+    }
+    i {
+        color: black;
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: none;
+        width: 100%;
+    }
+    #example-navbar-collapse {
+        border-top: none;
+        width: 100%;
+        border-bottom: none;
+    }
+    hr.allhr:before {
+        position: absolute;
     }
     .allhr {
-    position:absolute;
-    
+        position: absolute;
     }
-
-
-
 }
