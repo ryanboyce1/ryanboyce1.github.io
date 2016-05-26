@@ -256,6 +256,8 @@ MEDIA QUERIES
     background-color:#71C3DD;
     color:#0089BB;
     margin-top:18px;
+    border: 2px solid saddlebrown;
+    border-radius:5px;
     
     
    
@@ -269,6 +271,7 @@ MEDIA QUERIES
     margin-top:5px;
     margin-bottom:10px;
     font-size:20px;
+    
     
     
 }
@@ -296,7 +299,7 @@ i {
         
 }
     #example-navbar-collapse {
-        height:150;
+        height:;
         width:100%;
         
         
