@@ -9,7 +9,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color:#00304D;
+    color:#33383B;
 }
 
 
@@ -30,14 +30,14 @@ NAVIGATION BAR
 
 .logo {
     border-radius: 1000px;
-    border: 1px solid saddlebrown;
-    width:100px;
+    border: 1px solid #33383B;
+    width:1 00px;
     height:100px;
 }
 
 .navbar-default {
-    background-color: #71C3DD;
-    border-color: #71C3DD;
+    background-color: #fff;
+    border-color: #fff;
     height:150;
 
 }
@@ -68,6 +68,9 @@ nav.navbar.navbar-default.navbar-fixed-top {
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+navbar-toggle:hover {
+    border-color: #fff;
+}
 
 
 
@@ -93,8 +96,8 @@ BIG LANDING PAGE
 .allhr {
     color:71C3DD ;
     height: 30px;
-    border-style: solid #71C3DD;
-    border-color: #71C3DD;
+    border-style: solid #33383B;
+    border-color: #33383B;
     border-width: 1px 0 0;
     border-radius: 20px;
 }
@@ -103,8 +106,8 @@ hr.allhr:before { /* Not really supposed to work, but does */
     content: "";
     height: 30px;
     margin-top: -31px;
-    border-style: solid #71C3DD;
-    border-color: #71C3DD;
+    border-style: solid #33383B;
+    border-color: #33383B;
     border-width: 0 0 1px 0;
     border-radius: 20px;
     
@@ -121,7 +124,7 @@ One Liner with Button
 
 .btn-default, .btn-default:hover, .btn-default:focus, .btn-default:active, .dropdown-menu {
     color: white;
-    background-color: saddlebrown;
+    background-color: #33383B;
     border-color: #ccc;
     width:200px;
     font-weight:bold;
@@ -135,8 +138,8 @@ One Liner with Button
 
 .btn-default.active.focus, .btn-default.active:focus, .btn-default.active:hover, .btn-default:active.focus, .btn-default:active:focus, .btn-default:active:hover, .open>.dropdown-toggle.btn-default.focus, .open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover {
     color: black;
-    background-color: #EAC6A6;
-    border-color: #C6A35D;
+    background-color: #33383B;
+    border-color: black;
 }
 .dropdown-menu>li>a:hover {
     color: black;
@@ -159,7 +162,7 @@ One Liner with Button
     color:white;
     height: 30px;
     border-style: solid;
-    border-color: saddlebrown;
+    border-color: #33383B;
     border-width: 1px 0 0 ;
     border-radius: 20px;
 }
@@ -169,7 +172,7 @@ hr.allhr:before { /* Not really supposed to work, but does */
     height: 30px;
     margin-top: -31px;
     border-style: solid;
-    border-color: saddlebrown;
+    border-color: ;
     border-width: 0 0 1px 0;
     border-radius: 20px;
 }
@@ -186,7 +189,7 @@ hr.allhr:before { /* Not really supposed to work, but does */
     border-radius: 125px;
     margin:auto;
     margin-top:75px;
-    border: 5px solid #C6A35D;
+    border: 5px solid #33383B;
 }
 
 p{
@@ -205,18 +208,81 @@ p{
 
 .footer-distributed p.footer-links a {
     display: inline-block;
-    line-height: 1.8;
+    line-height: 1.5;
     text-decoration: none;
-    color:#00304D;
+    color:#33383B;
+    font-size:16px;
 }
 
 
 /********************
 MEDIA QUERIES
 ********************/
+@media (max-width: 991px){
 
+  .navbar-default {
+    color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Dosis', sans-serif;
+    
+    
+}
 
-@media screen and (max-width: 764px) {
+.logo {
+    border-radius: 1000px;
+    border: 1px solid #33383B;
+    width:100px;
+    height:100px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+    height:175px;
+
+}
+
+.navbar-default .navbar-nav {
+    margin-top:1px;
+    float: right;
+    font-family: 'Dosis', sans-serif;
+   
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #00304D;
+    font-size: 18px;
+    font-family: 'Dosis', sans-serif;
+    margin-left: 14px;
+    padding: none;
+    font-weight:bold;
+
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #C6A35D;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top {
+    height: 119px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+navbar-toggle:hover {
+    border-color: #fff;
+}
+
+    
+
+    }
+
+/********************
+MEDIA QUERIES
+********************/
+
+@media screen and (max-width: 767px) {
     
 
     .hero {
@@ -236,7 +302,7 @@ MEDIA QUERIES
 
 .logo {
     border-radius: 1000px;
-    border: 5px solid saddlebrown;
+    border: 5px solid #33383B;
     width:150px;
     height:150px;
 }
@@ -273,14 +339,14 @@ MEDIA QUERIES
     
 
 .navbar-default .navbar-nav>li>a:hover {
-    color: saddlebrown;
+    color: #33383B;
 
 }
     nav.navbar.navbar-default.navbar-fixed-top {
     height: 70px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    border-bottom: 2px solid saddlebrown;
+    border-bottom: 2px solid #33383B;
 }
 
 i:hover {
