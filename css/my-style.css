@@ -38,7 +38,7 @@ NAVIGATION BAR
 .navbar-default {
     background-color: #71C3DD;
     border-color: #71C3DD;
-    height:120px;
+    height:150;
 
 }
 
@@ -46,6 +46,7 @@ NAVIGATION BAR
     margin-top: 50px;
     float: right;
     font-family: 'Dosis', sans-serif;
+   
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -55,6 +56,7 @@ NAVIGATION BAR
     margin-left: 25px;
     padding: none;
     font-weight:bold;
+
 }
 
 .navbar-default .navbar-nav>li>a:hover {
@@ -62,7 +64,7 @@ NAVIGATION BAR
 }
 
 nav.navbar.navbar-default.navbar-fixed-top {
-    height: 70px;
+    height: 119px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
@@ -214,7 +216,7 @@ MEDIA QUERIES
 ********************/
 
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 764px) {
     .logo {
         width: 200px;
         height: 200px;
@@ -223,13 +225,15 @@ MEDIA QUERIES
     .hero {
         margin-top:225px
     }
-    .navbar-default {
-    color:black;
+  
+.navbar-default {
+    color:saddlebrown;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     font-family: 'Dosis', sans-serif;
     width:100%;
+ 
     
 }
 
@@ -242,6 +246,7 @@ MEDIA QUERIES
 
 .navbar-default {
     background-color: #fff;
+   
 }
 
 .navbar-default .navbar-nav {
@@ -251,7 +256,9 @@ MEDIA QUERIES
     background-color:#71C3DD;
     color:#0089BB;
     margin-top:18px;
-    width:170px;
+    
+    
+   
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -261,12 +268,19 @@ MEDIA QUERIES
     padding: none;
     margin-top:5px;
     margin-bottom:-10px;
+    width:200px;
+    
     
 }
 
 .navbar-default .navbar-nav>li>a:hover {
     color: saddlebrown;
 
+}
+    nav.navbar.navbar-default.navbar-fixed-top {
+    height: 70px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 
 i:hover {
@@ -276,4 +290,16 @@ i:hover {
 i {
     color: black;
 }
+    
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: none;
+        
+}
+    #example-navbar-collapse {
+        height:150;
+        width:100%;
+        
+        
+    }
 
+}
