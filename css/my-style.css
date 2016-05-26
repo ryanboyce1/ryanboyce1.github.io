@@ -236,8 +236,8 @@ MEDIA QUERIES
 .logo {
     border-radius: 1000px;
     border: 5px solid #C6A35D;
-    width:200px;
-    height:200px;
+    width:175px;
+    height:175px;
 }
 
 .navbar-default {
@@ -265,7 +265,7 @@ MEDIA QUERIES
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-    color: #C6A35D;
+    color: saddlebrown;
 
 }
 
