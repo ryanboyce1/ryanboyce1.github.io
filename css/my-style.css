@@ -267,8 +267,8 @@ MEDIA QUERIES
     font-family: 'Dosis', sans-serif;
     padding: none;
     margin-top:5px;
-    margin-bottom:-10px;
-    width:200px;
+    margin-bottom:10px;
+    font-size:20px;
     
     
 }
