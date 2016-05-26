@@ -251,7 +251,7 @@ MEDIA QUERIES
     background-color:#71C3DD;
     color:#0089BB;
     margin-top:18px;
-    width:150px;
+    width:170px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -259,7 +259,8 @@ MEDIA QUERIES
     font-size: 25px;
     font-family: 'Dosis', sans-serif;
     padding: none;
-    margin-top:10px;
+    margin-top:5px;
+    margin-bottom:-10px;
     
 }
 
