@@ -30,7 +30,7 @@ NAVIGATION BAR
 
 .logo {
     border-radius: 1000px;
-    border: 3px solid #EFF0EE;
+    border: 1px solid saddlebrown;
     width:100px;
     height:100px;
 }
@@ -38,6 +38,7 @@ NAVIGATION BAR
 .navbar-default {
     background-color: #71C3DD;
     border-color: #71C3DD;
+    height:120px;
 
 }
 
@@ -60,6 +61,11 @@ NAVIGATION BAR
     color: #C6A35D;
 }
 
+nav.navbar.navbar-default.navbar-fixed-top {
+    height: 70px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
 
 
 
@@ -242,6 +248,10 @@ MEDIA QUERIES
     float: right;
     font-family: 'Dosis', sans-serif;
     margin-top:0px;
+    background-color:#71C3DD;
+    color:#0089BB;
+    margin-top:18px;
+    width:170px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -255,6 +265,7 @@ MEDIA QUERIES
 
 .navbar-default .navbar-nav>li>a:hover {
     color: #C6A35D;
+
 }
 
 i:hover {
@@ -265,4 +276,3 @@ i {
     color: black;
 }
 
-}
