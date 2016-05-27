@@ -55,6 +55,8 @@ nav.navbar.navbar-default.navbar-fixed-top {
     height: 119px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+    box-shadow: 0 0 100px black;
+   
 }
 
 navbar-toggle:hover {
@@ -102,7 +104,7 @@ hr.allhr:before {
 
 
 /********************
-One Liner with Button
+One Liner with BUTTON!
 ********************/
 
 .oneliner {
@@ -209,7 +211,8 @@ p {
     border-top-right-radius: 15px;
     border-top: 1px solid;
     position: absolute;
-    height: 100px
+    height: 100px;
+    box-shadow: 0 0 75px black;
 }
 
 .footer-distributed p.footer-links a {
@@ -218,11 +221,12 @@ p {
     text-decoration: none;
     color: #33383B;
     font-size: 16px;
+   
 }
 
 
 /********************
-MEDIA QUERIES
+MEDIA QUERIES •991px•
 ********************/
 
 @media (max-width: 991px) {
@@ -263,7 +267,7 @@ MEDIA QUERIES
 
 
 /********************
-MEDIA QUERIES
+MEDIA QUERIES •767px•
 ********************/
 
 @media screen and (max-width: 767px) {
