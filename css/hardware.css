@@ -2,11 +2,11 @@ html {}
 
 body {
     font-family: 'Dosis', sans-serif;
-    background-color: #55bcdd;
+    background-color: #015697;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color:#33383B ;
+    color:#CE153E ;
 }
 
 
@@ -46,9 +46,7 @@ NAVIGATION BAR
     font-size: 20px;
     font-family: 'Dosis', sans-serif;
     padding: none;
-    
 }
-
 .navbar-default .navbar-nav>li>a:hover {
    text-decoration:underline;
 
@@ -358,7 +356,7 @@ MyworkPage
 ********************/
 
 .spacer {
-    height: 250px
+    height: 200px
 }
 
 .myworkimg {
@@ -370,7 +368,8 @@ MyworkPage
 }
 
 .myworkimg {
-    width: 270;
+    width: 300;
+    height:300px;
     border: 1px solid #71C3DD;
     padding: 0px;
 }
@@ -391,3 +390,13 @@ h4 {
 /********************
 END: MyworkPage
 ********************/
+.lwvbanner {
+    height:150px;
+    margin:0 auto;
+    text-align:center;
+    
+}
+
+.uglymug {
+    border-radius:0px;
+}
