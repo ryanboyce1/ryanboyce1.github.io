@@ -24,9 +24,9 @@ NAVIGATION BAR
 
 .logo {
     border-radius: 15px;
-    width: 200px;
-    height: 200px;
-    margin-top:-55px;
+    width: 175px;
+    height: 175px;
+    margin-top:-45px;
 }
 
 .navbar-default {
@@ -49,7 +49,9 @@ NAVIGATION BAR
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-    text-decoration: underline;
+   text-decoration:underline;
+
+   
 }
 
 nav.navbar.navbar-default.navbar-fixed-top {
@@ -245,7 +247,7 @@ MEDIA QUERIES •991px•
         height: 175px;
     }
     .navbar-default .navbar-nav {
-        margin-top: 1px;
+        margin-top: -1px;
         float: right;
         font-family: 'Dosis', sans-serif;
     }
@@ -255,7 +257,7 @@ MEDIA QUERIES •991px•
         font-family: 'Dosis', sans-serif;
     }
     .navbar-default .navbar-nav>li>a:hover {
-        color: #C6A35D;
+       text-decoration:underline;
     }
     nav.navbar.navbar-default.navbar-fixed-top {
         height: 120px;
@@ -278,7 +280,7 @@ MEDIA QUERIES •767px•
     }
     .navbar-default .navbar-nav>li>a {
         color: #00304D;
-        font-size: 21px;
+        font-size: 22px;
         font-family: 'Dosis', sans-serif;
         padding: none;
     }
@@ -291,8 +293,8 @@ MEDIA QUERIES •767px•
         width: 100%;
     }
     .logo {
-        width: 175px;
-        height: 175px;
+        width: 165px;
+        height: 165px;
         border-radius: 0px;
         margin-left: 30px;
     }
@@ -315,16 +317,15 @@ MEDIA QUERIES •767px•
         border-bottom-right-radius: 15px;
         border-bottom: 2px solid #33383B;
     }
-    i:hover {
-        color: #C6A35D;
-    }
+    
     i {
-        color: black;
+        color: white    ;
     }
     .navbar-default .navbar-collapse,
     .navbar-default .navbar-form {
         border-color: none;
         width: 100%;
+        float:right;
     }
     #example-navbar-collapse {
         border-top: none;
