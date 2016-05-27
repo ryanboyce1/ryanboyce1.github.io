@@ -2,11 +2,11 @@ html {}
 
 body {
     font-family: 'Dosis', sans-serif;
-    background-color: #71C3DD;
+    background-color: #55bcdd;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color: #33383B;
+    color:#33383B ;
 }
 
 
@@ -25,7 +25,8 @@ NAVIGATION BAR
 .logo {
     border-radius: 15px;
     width: 200px;
-    height: 100px;
+    height: 200px;
+    margin-top:-55px;
 }
 
 .navbar-default {
@@ -55,7 +56,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
     height: 119px;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    box-shadow: 0 0 100px black;
+    box-shadow: 0 0 150px black;
    
 }
 
@@ -212,7 +213,7 @@ p {
     border-top: 1px solid;
     position: absolute;
     height: 100px;
-    box-shadow: 0 0 75px black;
+    box-shadow: 0 0 50px black;    
 }
 
 .footer-distributed p.footer-links a {
@@ -221,8 +222,9 @@ p {
     text-decoration: none;
     color: #33383B;
     font-size: 16px;
-   
+    
 }
+
 
 
 /********************
@@ -290,7 +292,7 @@ MEDIA QUERIES •767px•
     }
     .logo {
         width: 175px;
-        height: 100px;
+        height: 175px;
         border-radius: 0px;
         margin-left: 30px;
     }
