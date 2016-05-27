@@ -1,10 +1,10 @@
 html {
-    height: 100%;
+
 }
 
 body {
     font-family: 'Dosis', sans-serif;
-    height: 100%;
+
     background-color: #71C3DD;
     background-repeat: no-repeat;
     background-position: center;
@@ -210,12 +210,12 @@ p {
 
 .footer-distributed {
     background-color: white;
-    margin-top: -40px;
     color: #00304D;
-    margin-top: -50.9px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-top: 1px solid;
+    position:absolute;
+    
 }
 
 .footer-distributed p.footer-links a {
@@ -339,4 +339,31 @@ MEDIA QUERIES
     .allhr {
         position: absolute;
     }
+}
+
+/********************
+MyworkPage
+********************/
+.ports {
+    height:200px;
+    width:400px;
+}
+
+.spacer {
+    height:250px
+}
+
+.myworkimg {
+
+    width:270px;
+    height:225px;
+    margin:0 auto;
+    border: 4px solid #6f6117;
+    border-radius:10px;
+    padding:7px;
+
+}
+
+h4 {
+    text-align:center;
 }
