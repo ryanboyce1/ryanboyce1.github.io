@@ -15,7 +15,7 @@ NAVIGATION BAR
 ********************/
 
 .navbar-default {
-    color: #000000;
+    color: #fff;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -33,6 +33,7 @@ NAVIGATION BAR
     background-color: #015697;
     border-color: #015697;
     height: 150;
+    color:#fff;
 }
 
 .navbar-default .navbar-nav {
@@ -207,7 +208,7 @@ p {
 }
 
 .footer-distributed {
-    background-color: white;
+    background-color: #015697;
     color: #00304D;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -241,8 +242,8 @@ MEDIA QUERIES •991px•
         font-family: 'Dosis', sans-serif;
     }
     .navbar-default {
-        background-color: #fff;
-        border-color: #fff;
+        background-color: #015697;
+        border-color: #015697;
         height: 175px;
     }
     .navbar-default .navbar-nav {
@@ -282,6 +283,7 @@ MEDIA QUERIES •767px•
         font-size: 22px;
         font-family: 'Dosis', sans-serif;
         padding: none;
+        margin:12px;
     }
     .navbar-default {
         color: #33383B;
@@ -306,15 +308,15 @@ MEDIA QUERIES •767px•
         margin-top: 0px;
         background-color: #34bce6;
         color: #0089BB;
-        margin-top: 18px;
         border: 2px solid #33383B;
-        border-radius: 5px;
+        font-size:15px;
     }
     nav.navbar.navbar-default.navbar-fixed-top {
         height: 119px;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;
         border-bottom: 2px solid #33383B;
+        background-color:#015697;
     }
     
     i {
@@ -399,5 +401,14 @@ END: MyworkPage
 
 .uglymug {
     border-radius:0px;
+    
+}
+
+.dotted {
+    border-left: 1px dashed #015697;
+    border-bottom: 1px inset #015697;
+    height:50%;
+    position:relative;
+    padding-bottom:15px;
 }
 
