@@ -2,7 +2,7 @@ html {}
 
 body {
     font-family: 'Dosis', sans-serif;
-    background-color: #015697;
+    background-color: #fff;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -30,8 +30,8 @@ NAVIGATION BAR
 }
 
 .navbar-default {
-    background-color: #fff;
-    border-color: #fff;
+    background-color: #015697;
+    border-color: #015697;
     height: 150;
 }
 
@@ -42,7 +42,7 @@ NAVIGATION BAR
 }
 
 .navbar-default .navbar-nav>li>a {
-    color: #00304D;
+    color: #fff;
     font-size: 20px;
     font-family: 'Dosis', sans-serif;
     padding: none;
@@ -400,3 +400,4 @@ END: MyworkPage
 .uglymug {
     border-radius:0px;
 }
+
