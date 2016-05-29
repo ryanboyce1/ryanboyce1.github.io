@@ -287,6 +287,7 @@ MEDIA QUERIES •767px•
         font-size: 22px;
         font-family: 'Dosis', sans-serif;
         padding: none;
+        margin:10px
     }
     .navbar-default {
         color: #33383B;
@@ -304,6 +305,7 @@ MEDIA QUERIES •767px•
     }
     .navbar-default {
         background-color: #fff;
+    
     }
     .navbar-default .navbar-nav {
         float: right;
@@ -314,6 +316,7 @@ MEDIA QUERIES •767px•
         margin-top: 18px;
         border: 2px solid #33383B;
         border-radius: 5px;
+    
     }
     nav.navbar.navbar-default.navbar-fixed-top {
         height: 119px;
