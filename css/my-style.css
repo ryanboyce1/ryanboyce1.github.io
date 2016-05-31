@@ -25,8 +25,8 @@ NAVIGATION BAR
 .logo {
     border-radius: 15px;
     width: 175px;
-    height: 175px;
-    margin-top:-45px;
+    height: 105px;
+   margin-top:-15px
 }
 
 .navbar-default {
@@ -279,7 +279,8 @@ MEDIA QUERIES •767px•
 
 @media screen and (max-width: 767px) {
     .hero {
-        margin-top: 225px
+        margin-top: 225px;
+        
     }
     .navbar-default .navbar-nav>li>a {
         color: #00304D;
@@ -298,7 +299,7 @@ MEDIA QUERIES •767px•
     }
     .logo {
         width: 165px;
-        height: 165px;
+        height: 100px;
         border-radius: 0px;
         margin-left: 30px;
     }

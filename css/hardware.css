@@ -6,7 +6,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    color:#CE153E ;
+    color: #313131 ;
 }
 
 
@@ -51,6 +51,7 @@ NAVIGATION BAR
 }
 .navbar-default .navbar-nav>li>a:hover {
    text-decoration:underline;
+    color:#CE153E;
 
    
 }
@@ -260,6 +261,7 @@ MEDIA QUERIES •991px•
     }
     .navbar-default .navbar-nav>li>a:hover {
        text-decoration:underline;
+    color:white;
     }
     nav.navbar.navbar-default.navbar-fixed-top {
         height: 120px;
@@ -404,12 +406,22 @@ END: MyworkPage
 .uglymug {
     border-radius:10px;
     border: 1px solid black;
+    padding: 3px;
     
 }
+
 
 .problem {
    margin-bottom:30px;
 }
 
+.examples {
+    transition: all .2s ease-in-out; 
+    height:125px;
+    width:125;
+    margin-top:20px;
+}
 
-
+.firsttwocolumn {
+    border-bottom: 1px dashed red;
+}
