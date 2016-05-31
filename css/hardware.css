@@ -254,8 +254,9 @@ MEDIA QUERIES •991px•
     }
     .navbar-default .navbar-nav>li>a {
         color: #00304D;
-        font-size: 18px;
+        font-size: 16px;
         font-family: 'Dosis', sans-serif;
+        color:white;
     }
     .navbar-default .navbar-nav>li>a:hover {
        text-decoration:underline;
@@ -281,10 +282,10 @@ MEDIA QUERIES •767px•
     }
     .navbar-default .navbar-nav>li>a {
         color: #00304D;
-        font-size: 22px;
+        font-size: 18px;
         font-family: 'Dosis', sans-serif;
         padding: none;
-        margin:12px;
+        margin:10px;
     }
     .navbar-default {
         color: #33383B;
@@ -307,8 +308,8 @@ MEDIA QUERIES •767px•
         float: right;
         font-family: 'Dosis', sans-serif;
         margin-top: 0px;
-        background-color: #34bce6;
-        color: #0089BB;
+        background-color: #015697;
+        color:#fff;
         border: 2px solid #33383B;
         font-size:15px;
     }
@@ -394,15 +395,20 @@ h4 {
 END: MyworkPage
 ********************/
 .lwvbanner {
-    height:150px;
+    height:100%;
     margin:0 auto;
     text-align:center;
-    
+    border-bottom:1px dashed red;
 }
 
 .uglymug {
-    border-radius:0px;
+    border-radius:10px;
+    border: 1px solid black;
     
+}
+
+.problem {
+   margin-bottom:30px;
 }
 
 
