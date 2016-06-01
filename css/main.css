@@ -1056,7 +1056,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-blog {
-	margin-bottom: 30px;
+	margin-bottom: 25px;
 	background-color:#F7F7F7;
 	padding:25px;
 	transition: all 1s ease 0s;
@@ -1065,6 +1065,7 @@ h1, h2, h3, h4, h5, h6 {
 	-o-transition: all 1s ease 0s;
 	-webkit-box-shadow: 0 2px 0 0 #ddd;
 	box-shadow: 0 2px 0 0 #ddd;
+    
 }
 
 .single-blog:hover {
@@ -1089,8 +1090,9 @@ h1, h2, h3, h4, h5, h6 {
 .single-blog img{
 	width:100%;
 	margin-bottom:20px;
-    height: 160px;
 }
+
+
 
 .single-blog h2 {
 	color:#43484E;
