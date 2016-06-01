@@ -26,4 +26,19 @@ li {
 
 .parallax-section {
    margin-top:200px;
+
 }
+
+.lwvimg {
+    height:150px;
+    width:75%;
+}
+
+@media (max-width: 600px) {
+  .single-service {
+    height:800px;
+  }
+}
+
+
+    /* For tablets: */

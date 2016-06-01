@@ -603,10 +603,10 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #services {
-  background-image: url("../images/ryangreencircle.jpg");
-  color:#fff;
+  background-image: url("../images/cardsorting.jpg");
+  color:#fff; 
   text-align:center;
-  background-color:	#0A0A13;
+  background-color:	#fff;
 }
 
 .services {
@@ -628,6 +628,8 @@ h1, h2, h3, h4, h5, h6 {
 	-moz-transition: all 0.9s ease 0s;
 	-webkit-transition: all 0.9s ease 0s;
 	-o-transition: all 0.9s ease 0s;
+    
+    
 }
 
 .single-service p {
@@ -697,6 +699,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 25px;
 	text-align:center;
 	overflow:hidden;
+    
 }
 
 .single-member img {
