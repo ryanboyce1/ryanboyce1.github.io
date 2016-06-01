@@ -19,3 +19,11 @@ footer {
 li {
     text-decoration:none;
 }
+
+.imgport {
+    height:125px;
+}
+
+.parallax-section {
+   margin-top:200px;
+}
