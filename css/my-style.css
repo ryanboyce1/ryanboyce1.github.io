@@ -26,6 +26,7 @@ li {
 
 .parallax-section {
    margin-top:200px;
+    
 
 }
 
@@ -34,6 +35,26 @@ li {
     width:75%;
 }
 
+.problem {
+    text-align:left;    
+    padding:30px;
+}
+
+.pardark {
+    background-color: rgba(0, 0, 0, 0.39);
+    padding:10px;
+}
+
+.btn {
+    background-color:#fc7700;
+    border-radius:0px;
+
+}
+
+.btn-primary {
+     border-radius:0px;
+    border:none;
+}
 @media (max-width: 600px) {
   .single-service {
     height:800px;
