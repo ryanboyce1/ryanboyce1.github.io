@@ -20,6 +20,10 @@ li {
     text-decoration:none;
 }
 
+.logo {
+    width:200px;
+    height:40px;
+}
 .imgport {
     height:125px;
 }
@@ -51,9 +55,14 @@ li {
 
 }
 
+
 .btn-primary {
      border-radius:0px;
     border:none;
+}
+
+.contact-heading {
+    margin-bottom:-25px;
 }
 @media (max-width: 600px) {
   .single-service {

@@ -633,7 +633,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-service p {
-	text-align:justify;
+	text-align:center  ;
 }
 
 .single-service i {
@@ -658,11 +658,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-service:hover i {
 	color:#fc7700;
-	-moz-transform: scale(1.1) rotate(360deg);
-	-webkit-transform: scale(1.1) rotate(360deg);
-	-o-transform: scale(1.1) rotate(360deg);
-	-ms-transform: scale(1.1) rotate(360deg);
-	transform: scale(1.1) rotate(360deg);
+	   -moz-transform: scale(1.1) rotate(360deg);
+-webkit-transform: scale(1.1) rotate(360deg);
+-o-transform: scale(1.1) rotate(360deg);
+-ms-transform: scale(1.1) rotate(360deg);
+transform: scale(1.1) rotate(360deg);
 }
 
 
@@ -1062,12 +1062,12 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 25px;
 	background-color:#F7F7F7;
 	padding:25px;
-	transition: all 1s ease 0s;
-	-moz-transition: all 1s ease 0s;
-	-webkit-transition: all 1s ease 0s;
+	transition: all .5s ease 0s;
+	-moz-transition: all .5s ease 0s;
+	-webkit-transition: all .5s ease 0s;
 	-o-transition: all 1s ease 0s;
-	-webkit-box-shadow: 0 2px 0 0 #ddd;
-	box-shadow: 0 2px 0 0 #ddd;
+	-webkit-box-shadow: 0 1px 0 0 #ddd;
+	box-shadow: 0 1px 0 0 #ddd;
     
 }
 
@@ -1084,10 +1084,10 @@ h1, h2, h3, h4, h5, h6 {
 	background-color:#fc7700;
 	color:#fff;
 	border-color:#fff;
-	transition: all 0.9s ease 0s;
-	-moz-transition: all 0.9s ease 0s;
-	-webkit-transition: all 0.9s ease 0s;
-	-o-transition: all 0.9s ease 0s;
+	transition: all 2.2s ease 0s;
+	-moz-transition: all 2.2s ease 0s;
+	-webkit-transition: all 2.2s ease 0s;
+	-o-transition: all 2.2s ease 0s;
 }
 
 .single-blog img{
