@@ -64,9 +64,7 @@ li {
     border:none;
 }
 
-.porthtwo {
-    font-size:10px;
-}
+
 
 
 .contact-heading {
@@ -74,7 +72,7 @@ li {
 }
 @media (max-width: 600px) {
   .single-service {
-    height:800px;
+    height:300px;
   }
 }
 
