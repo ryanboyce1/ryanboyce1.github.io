@@ -4,9 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+html {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    font-family: 'Dosis', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
 }
 
 footer {
@@ -74,20 +80,19 @@ li {
     margin-bottom:40px;
 }
 
-.who {
-    margin-bottom:-130px;
+.who {  
+    margin-bottom:-100px;
 }
 
 .whopar {
     font-size:16px;
-    margin-top:10px;
-    line-height: 150%;
-    
+    margin-top:20px;
+
 }
 
 .portfolio {
     padding-bottom: 40px;
-    padding-top: -40px;
+
         
 }
 
