@@ -353,6 +353,7 @@ h1, h2, h3, h4, h5, h6 {
 	left: 0;
 	top: 0;
 	z-index: 11;
+
 }
 
 #main-carousel .carousel-caption > div{
@@ -361,7 +362,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main-carousel .carousel-inner h2 {
-	color: #f6f6f6;
+	color: #fc7700;
 	display: inline-block;
 	font-family: roboto;
 	font-size: 55px;
@@ -376,7 +377,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main-carousel .carousel-inner p {
-	color: #f6f6f6;
+	color: #fc7700;
 	font-family: roboto;
 	font-size: 24px;
 	font-weight: 300;
@@ -603,7 +604,7 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #services {
-  background-image: url("../img/parallax.jpg");
+  background-image: url("../images/ryangreencircle.jpg");
   color:#fff; 
   text-align:center;
   background-color:	#fff;
@@ -628,7 +629,7 @@ h1, h2, h3, h4, h5, h6 {
 	transition: all 0.9s ease 0s;
 	-moz-transition: all 0.9s ease 0s;
 	-webkit-transition: all 0.9s ease 0s;
-	-o-transition: all 0.9s ease 0s;
+	-o-transition: all 0.9s ease 0s;   
     
     
 }
@@ -639,13 +640,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-service i {
 	text-align:center;
-	font-size:80px;
+	font-size:35px;
 	background-color: #fff;
 	border-radius: 50%;
 	display: inline-block;
-	height: 150px;
-	line-height: 150px;
-	width: 150px;
+	height: 75px;
+	line-height: 75px;
+	width: 75px;
 	color:#43484E;
 	transition: all 0.9s ease 0s;
 	-moz-transition: all 0.9s ease 0s;
@@ -1081,10 +1082,10 @@ h1, h2, h3, h4, h5, h6 {
 	background-color:#fc7700;
 	color:#fff;
 	border-color:#fff;
-	transition: all 2.2s ease 0s;
-	-moz-transition: all 2.2s ease 0s;
-	-webkit-transition: all 2.2s ease 0s;
-	-o-transition: all 2.2s ease 0s;
+	transition: all 2s ease 0s;
+	-moz-transition: all 2s ease 0s;
+	-webkit-transition: all 2s ease 0s;
+	-o-transition: all 2s ease 0s;
 }
 
 .single-blog img{
