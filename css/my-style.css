@@ -69,10 +69,15 @@ li {
     font-size:36px;
 }
 
-.who{
-    margin-top:90px;    
-    margin-bottom:50px;
+
+#home {
+    margin-bottom:40px;
 }
+
+.who {
+    margin-bottom:-130px;
+}
+
 
 
 
