@@ -84,6 +84,11 @@ li {
     line-height: 150%
 }
 
+.single-service p {
+	text-align:center  ;
+    font-size:10px; 
+}
+
 
 
 

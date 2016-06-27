@@ -626,7 +626,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-service {
 	background-color: rgba(0, 0, 0, 0.50);
-	padding:20px;
+	padding:5px;
 	transition: all 0.9s ease 0s;
 	-moz-transition: all 0.9s ease 0s;
 	-webkit-transition: all 0.9s ease 0s;
@@ -637,6 +637,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .single-service p {
 	text-align:center  ;
+    
 }
 
 .single-service i {
@@ -649,20 +650,16 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 75px;
 	width: 75px;
 	color:#43484E;
+    margin-top:10px;
 	transition: all 0.9s ease 0s;
 	-moz-transition: all 0.9s ease 0s;
 	-webkit-transition: all 0.9s ease 0s;
 	-o-transition: all 0.9s ease 0s;
+    margin-bottom:-60px;
 }
 
-.single-service:hover {
-	background-color: #fc7700;
-}
 
-.single-service:hover i {
-	color:#fc7700;
-	  
-}
+
 
 
 /*=====================
