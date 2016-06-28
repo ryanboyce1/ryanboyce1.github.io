@@ -9,6 +9,8 @@ body {
     font-family: 'Dosis', sans-serif;
 }
 
+
+
 footer {
     margin: 50px 0;
 }
@@ -23,7 +25,9 @@ li {
 
 
 .imgport {
-    height:125px;
+    height:100px;
+    background-position: center;
+    background-size: cover; 
 }
 
 .parallax-section {
@@ -59,6 +63,14 @@ li {
 
 }
 
+h6  {
+    color:#fc7700;
+}
+
+h5 {
+    color:#fc7700;
+}
+
 
 .btn-primary {
      border-radius:0px;
@@ -90,9 +102,15 @@ li {
 }
 
 
+btn-lgr-str {
+    color:white;
+}
 
+#timeline-vertical {
+    margin-top:-70px;
+}
 
-
+.homepattern
 
 .contact-heading {
     margin-bottom:-25px;
