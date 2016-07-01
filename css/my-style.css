@@ -139,6 +139,13 @@ btn-lgr-str {
 .contact-heading {
     margin-bottom:-25px;
 }
+
+.conclusion {
+    padding-top:70px;
+    border-bottom: 1px dashed black;'
+    width:75%;
+}
+
 @media (max-width: 600px) {
   .single-service {
     height:300px;
