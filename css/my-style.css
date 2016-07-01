@@ -65,6 +65,7 @@ li {
 
 h6  {
     color:#fc7700;
+    font-size:20px;
 }
 
 h5 {
@@ -110,7 +111,26 @@ btn-lgr-str {
     margin-top:-70px;
 }
 
+.text-center {
+    font-size:16px;
+}
 
+.uppercase {
+    font-size:22px;
+    color:#fc7700;
+}
+
+
+
+.midbox {
+    font-size:22px;
+}
+
+
+
+.small {
+    font-size:14px;
+}
 .contact-heading {
     margin-bottom:-25px;
 }

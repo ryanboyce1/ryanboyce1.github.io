@@ -152,8 +152,8 @@
   .dark .timeline-vert .timeline-panel h3 {
     color: #f2f2f2; }
   .dark .timeline-vert .timeline-panel h6 {
-    border-left: 1px solid #E84855;
-    color: #E84855; }
+    border-left: 1px solid #fc7700;
+    color: #fc7700; }
   .dark .timeline-vert .timeline-panel .timeline-body p {
     color: #a7a7a7; }
 .dark .timeline-vert li .timeline-time {
@@ -197,8 +197,8 @@
   .light .timeline-vert .timeline-panel h3 {
     color: #404040; }
   .light .timeline-vert .timeline-panel h6 {
-    border-left: 1px solid #E84855;
-    color: #E84855; }
+    border-left: 1px solid #fc7700;
+    color: #fc7700; }
   .light .timeline-vert .timeline-panel .timeline-body p {
     color: #404040; }
 .light .timeline-vert li .timeline-time {
@@ -213,7 +213,7 @@
 .light .timeline-vert li:hover .timeline-time {
   background-color: #fc7700; }
 .light .timeline-vert li:hover .timeline-panel {
-  background: #edf8d1; }
+  background: #AFD1D5; }
 .light .timeline-vert li:hover .timeline-panel:before {
   border-top: 15px solid transparent;
   border-left: 15px solid #edf8d1;
@@ -242,8 +242,8 @@
   .samantha .timeline-vert .timeline-panel h3 {
     color: #404040; }
   .samantha .timeline-vert .timeline-panel h6 {
-    border-left: 1px solid #E84855;
-    color: #E84855; }
+    border-left: 1px solid #fc7700;
+    color: #fc7700; }
   .samantha .timeline-vert .timeline-panel .timeline-body p {
     color: #404040; }
 .samantha .timeline-vert li .timeline-time {
@@ -305,7 +305,7 @@
   transition: all .5s ease-in-out; }
 
 .timeline-bg01 {
-  background: url("../img/engagement.png");
+  background: url("../img/whiteboard.jpg");
   background-position: center;
   background-size: cover; }
 
@@ -315,52 +315,52 @@
   background-size: cover; }
 
 .timeline-bg01-02 {
-  background: url("../img/ryangreencircle.jpg");
-  background-position: center;
-  background-size: cover; }
-
-.timeline-bg02 {
-  background: url("../img/ryangreencircle.jpg");
-  background-position: center;
-  background-size: cover; }
-
-.timeline-bg02-01 {
-  background: url("../img/ryangreencircle.jpg");
-  background-position: center;
-  background-size: cover; }
-
-.timeline-bg02-02 {
-  background: url("../images/03-samantha/timeline/timeline-2-01.jpg");
-  background-position: center;
-  background-size: cover; }
-
-.timeline-bg03 {
-  background: url("../images/02-john/timeline/timeline-3.jpg");
-  background-position: center;
-  background-size: cover; }
-
-.timeline-bg03-01 {
   background: url("../img/InterviewLWV.jpg");
   background-position: center;
   background-size: cover; }
 
+.timeline-bg02 {
+  background: url("../img/InterviewLWV.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bg02-01 {
+  background: url("../img/InterviewLWV.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bg02-02 {
+  background: url("../img/InterviewLWV.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bg03 {
+  background: url("../img/ryangreencircle.jpg");
+  background-position: center;
+  background-size: cover; }
+
+.timeline-bg03-01 {
+  background: url("../img/ryangreencircle.jpg");
+  background-position: center;
+  background-size: cover; }
+
 .timeline-bg03-02 {
-  background: url("../images/03-samantha/timeline/timeline-3-01.jpg");
+  background: url("../img/ryangreencircle.jpg");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg04 {
-  background: url("../images/02-john/timeline/timeline-4.jpg");
+  background: url("../img/tAction.jpg");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg04-01 {
-  background: url("../img/Sandra%20Slack.jpg");
-  background-position: center;
+  background: url("../img/tAction.jpg");
+  
   background-size: cover; }
 
 .timeline-bg04-02 {
-  background: url("../images/03-samantha/timeline/timeline-4-01.jpg");
+  background: url("../img/tAction.jpg");
   background-position: center;
   background-size: cover; }
 
@@ -1037,7 +1037,7 @@
     left: 40px !important; }
 
   ul.timeline-vert > li > .timeline-panel {
-    width: calc(100% - 90px) !important;
+    width: calc(100% - 100px) !important;
     width: -moz-calc(100% - 90px) !important;
     width: -webkit-calc(100% - 90px) !important; }
 
