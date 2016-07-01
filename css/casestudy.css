@@ -356,7 +356,7 @@
 
 .timeline-bg04-01 {
   background: url("../img/tAction.jpg");
-  
+  background-position: center;
   background-size: cover; }
 
 .timeline-bg04-02 {
