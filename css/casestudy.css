@@ -305,12 +305,12 @@
   transition: all .5s ease-in-out; }
 
 .timeline-bg01 {
-  background: url("../img/whiteboard.jpg");
+  background: url("../img/strategy.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg01-01 {
-  background: url("../img/whiteboard.jpg");
+  background: url("../img/strategy.png"");
   background-position: center;
   background-size: cover; }
 
