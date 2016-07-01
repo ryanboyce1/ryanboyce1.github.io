@@ -126,6 +126,13 @@ btn-lgr-str {
     font-size:22px;
 }
 
+.notsowide {
+    width:65%;
+    margin: 0 auto;
+    font-size:16px;
+    
+    
+}
 
 
 .small {
