@@ -5,152 +5,136 @@
  */
 
 body {
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 70px;
+    /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-family: 'Dosis', sans-serif;
 }
-
-
 
 footer {
     margin: 50px 0;
 }
 
 .spacer {
-    height:100px;
+    height: 100px;
 }
 
 li {
-    text-decoration:none;
+    text-decoration: none;
 }
 
-
-.imgport {
-    height:100px;
+.imgport1 {
+    height: 100px;
+    background: url("../img/lwv.png");
     background-position: center;
-    background-size: cover; 
+    background-size: cover;
 }
 
+
+
+.imgport2 {
+    height: 100px;
+    background: url("../img/ls.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+
+.imgport3 {
+    height:100px;
+    background: url("../images/progresss.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+}
 .parallax-section {
-   margin-top:201px;
+    margin-top:201px;
 }
-
 .lwvimg {
     height:150px;
     width:75%;
-    
 }
-
 .problem {
-    text-align:left;    
+    text-align:left;
     padding:30px;
 }
-
 .final {
- width:75%;
+    width:75%;
     margin:0 auto;
 }
-
 .pardark {
-    
     padding:10px;
 }
-
 .btn {
     background-color:#fc7700;
     border-radius:0px;
-
 }
-
-h6  {
+h6 {
     color:#fc7700;
     font-size:20px;
 }
-
 h5 {
     color:#fc7700;
 }
-
-
 .btn-primary {
-     border-radius:0px;
+    border-radius:0px;
     border:none;
 }
-
 .htwoser {
     font-size:28px;
 }
-
-
 #home {
     margin-bottom:40px;
 }
-
 .who {
-    margin-bottom:-130px;
+    margin-bottom:50px;
 }
-
 .whopar {
     font-size:16px;
     margin-top:10px;
     line-height: 150%
 }
-
 .single-service p {
-	text-align:center  ;
-    font-size:10px; 
+    text-align:center;
+    font-size:10px;
 }
-
-
 btn-lgr-str {
     color:white;
 }
-
 #timeline-vertical {
     margin-top:-70px;
 }
-
 .text-center {
     font-size:16px;
 }
-
 .uppercase {
     font-size:22px;
     color:#fc7700;
 }
-
-
-
 .midbox {
     font-size:22px;
 }
-
 .notsowide {
     width:65%;
     margin: 0 auto;
     font-size:16px;
-    
-    
 }
-
-
 .small {
     font-size:14px;
 }
 .contact-heading {
     margin-bottom:-25px;
 }
-
 .conclusion {
     padding-top:70px;
-    border-bottom: 1px dashed black;'
-    width:75%;
+    border-bottom: 1px dotted black;
+    '
+ width:75%;
 }
-
 @media (max-width: 600px) {
-  .single-service {
-    height:300px;
-  }
+    .single-service {
+        height:300px;
+    }
 }
 
-
-    /* For tablets: */
+/* For tablets: */
