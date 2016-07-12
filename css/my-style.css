@@ -128,8 +128,12 @@ btn-lgr-str {
 .conclusion {
     padding-top:70px;
     border-bottom: 1px dotted black;
-    '
+    
  width:75%;
+}
+
+address {
+    
 }
 @media (max-width: 600px) {
     .single-service {
