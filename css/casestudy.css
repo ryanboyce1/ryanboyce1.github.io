@@ -495,16 +495,17 @@
   background-size: cover; }
 
 .timeline-bg04 {
-  background: url("../img/tAction.jpg");
+  background: url("../img/compar.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg04-01 {
-  background: url("../img/tAction.jpg");
+  background: url("../img/compar.png");
+      background-position: center;
   background-size: cover; }
 
 .timeline-bg04-02 {
-  background: url("../img/tAction.jpg");
+  background: url("../img/compar.png");
   background-position: center;
   background-size: cover; }
 
