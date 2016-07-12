@@ -1170,18 +1170,18 @@ background-color: rgba(0, 0, 0, 0.50);
 	overflow:hidden;
 	background-color: #f6f6f6;
 	position:relative;
-	padding-bottom:10px;
+	padding-bottom:85px;
 	border-top:2px solid #ddd
 }
 
 #contact .contact-heading {
-	padding-bottom:35px;
+	
 	position: relative;
 	z-index: 10;
 }
 
 .contact-details {	
-	padding-top:75px;
+	padding-top:55px;
 }
 
 .pattern {

@@ -456,7 +456,8 @@
 .timeline-bg01-01 {
   background: url("../img/ryangreencircle.jpg");
   background-position: center;
-  background-size: cover; }
+  background-size:cover;
+   }
 
 .timeline-bg01-02 {
   background: url("../img/InterviewLWV.jpg");
@@ -479,17 +480,17 @@
   background-size: cover; }
 
 .timeline-bg03 {
-  background: url("../img/maggie.jpg");
+  background: url("../img/phoneint.png");
   background-position: center;
-  background-size: cover; }
+   }
 
 .timeline-bg03-01 {
-  background: url("../img/maggie.jpg");
-  background-position: center;
+  background: url("../img/phoneint.png");
+  
   background-size: cover; }
 
 .timeline-bg03-02 {
-  background: url("../img/maggie.jpg");
+  background: url("../img/phoneint.png");
   background-position: center;
   background-size: cover; }
 
