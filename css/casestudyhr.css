@@ -170,9 +170,7 @@
     #timeline-vertical .timeline-vert li:after {
       clear: both; }
     #timeline-vertical .timeline-vert li .timeline-photo {
-      min-height: 400px; 
-   
-      }
+      min-height: 250px; }
     #timeline-vertical .timeline-vert li .timeline-time {
       padding: 6px 30px;
       position: absolute;
@@ -449,12 +447,12 @@
   transition: all .5s ease-in-out; }
 
 .timeline-bg01 {
-  background: url("../img/ryangreencircle.jpg");
+  background: url("../img/hubrunner/IMG_0041.JPG");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg01-01 {
-  background: url("../img/ryangreencircle.jpg");
+  background: url("../img/hubrunner/IMG_0041.JPG");
   background-position: center;
   background-size: cover; }
 
@@ -508,7 +506,7 @@
   background-size: cover; }
 
 .timeline-bg05-01 {
-  background: url("../img/Sandra%20Slack.jpg");                                                                       background-position: center;
+  background: url("../img/finaltwo.png");                                                                       background-position: center;
   background-size: cover; }
 
 .timeline-bg05-02 {
@@ -517,15 +515,13 @@
   background-size: cover; }
 
 .timeline-bg06-01 {
-  background: url("../img/FullSizeRender.png");                                                                       background-position: center;
+  background: url("../img/mobile.png");                                                                       background-position: center;
   background-size: cover; }
 
 .timeline-bg06-02 {
-  background: url("../img/FullSizeRender.png");
+  background: url("../img/mobile.png");
   background-position: center;
-  background-size: cover; 
-    
-}
+  background-size: cover; }
 
 .timeline-bg07-01 {
   background: url("../img/Evaluation.png");                                                                       background-position: center;
@@ -537,11 +533,11 @@
   background-size: cover; }
 
 .timeline-bg08-01 {
-  background: url("../img/fromslide1.png");                                                                       background-position: center;
+  background: url("../img/finaldesign.jpg");                                                                       background-position: center;
   background-size: cover; }
 
 .timeline-bg08-02 {
-  background: url("../img/fromslide1.png");
+  background: url("../img/finaldesign.jpg");
   background-position: center;
   background-size: cover; }
 
