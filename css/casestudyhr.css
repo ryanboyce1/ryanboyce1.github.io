@@ -1,6 +1,12 @@
 /*======================
 ====Main Slider CSS=====
 =======================*/
+
+html {
+    font-family:'helvetica neue';
+}
+
+
 .home-pattern {
 	height:100%;
 	position:absolute;
