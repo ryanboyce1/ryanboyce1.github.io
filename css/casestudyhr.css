@@ -170,7 +170,7 @@
     #timeline-vertical .timeline-vert li:after {
       clear: both; }
     #timeline-vertical .timeline-vert li .timeline-photo {
-      min-height: 250px; }
+      min-height: 350px; }
     #timeline-vertical .timeline-vert li .timeline-time {
       padding: 6px 30px;
       position: absolute;
@@ -447,97 +447,98 @@
   transition: all .5s ease-in-out; }
 
 .timeline-bg01 {
-  background: url("../img/hubrunner/IMG_0041.JPG");
+  background: url("../img/HUBRAR/hub1.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg01-01 {
-  background: url("../img/hubrunner/IMG_0041.JPG");
+  background: url("../img/HUBRAR/hub1.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg01-02 {
-  background: url("../img/InterviewLWV.jpg");
+  background: url("../img/HUBRAR/hub2.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg02 {
-  background: url("../img/InterviewLWV.jpg");
+  background: url("../img/HUBRAR/hub2.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg02-01 {
-  background: url("../img/InterviewLWV.jpg");
+  background: url("../img/HUBRAR/hub2.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg02-02 {
-  background: url("../img/InterviewLWV.jpg");
+  background: url("../img/HUBRAR/hub2.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg03 {
-  background: url("../img/maggie.jpg");
+  background: url("../img/HUBRAR/hub3.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg03-01 {
-  background: url("../img/maggie.jpg");
+  background: url("../img/HUBRAR/hub3.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg03-02 {
-  background: url("../img/maggie.jpg");
+  background: url("../img/HUBRAR/hub3.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg04 {
-  background: url("../img/tAction.jpg");
+  background: url("../img/HUBRAR/hub4.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg04-01 {
-  background: url("../img/tAction.jpg");
+  background: url("../img/HUBRAR/hub4.png");
   background-size: cover; }
 
 .timeline-bg04-02 {
-  background: url("../img/tAction.jpg");
+  background: url("../img/HUBRAR/hub4.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg05-01 {
-  background: url("../img/finaltwo.png");                                                                       background-position: center;
-  background-size: cover; }
+  background: url("../img/HUBRAR/hub5.png");   
+background-size: cover; 
+}
 
 .timeline-bg05-02 {
-  background: url("../img/finaltwo.png");
-  background-position: center;
-  background-size: cover; }
+  background: url("../img/HUBRAR/hub5.png");
+  background-size: cover; 
+  }
 
 .timeline-bg06-01 {
-  background: url("../img/mobile.png");                                                                       background-position: center;
+  background: url("../img/HUBRAR/hub6.png");                                                                       background-position: center;
   background-size: cover; }
 
 .timeline-bg06-02 {
-  background: url("../img/mobile.png");
+  background: url("../img/HUBRAR/hub6.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg07-01 {
-  background: url("../img/Evaluation.png");                                                                       background-position: center;
+  background: url("../img/HUBRAR/hub7.png");                                                                       background-position: center;
   background-size: cover; }
 
 .timeline-bg07-02 {
-  background: url("../img/Evaluation.png");
+  background: url("../img/HUBRAR/hub7.png");
   background-position: center;
   background-size: cover; }
 
 .timeline-bg08-01 {
-  background: url("../img/finaldesign.jpg");                                                                       background-position: center;
+  background: url("../img/HUBRAR/hub8.png");                                                                       background-position: center;
   background-size: cover; }
 
 .timeline-bg08-02 {
-  background: url("../img/finaldesign.jpg");
+  background: url("../img/HUBRAR/hub8.png");
   background-position: center;
   background-size: cover; }
 
