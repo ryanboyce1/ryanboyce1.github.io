@@ -146,7 +146,7 @@ btn-lgr-str {
 .samples {
     
     margin: 0 auto;
-    height: 500px;
+    width:75%
 }
 
 @media (max-width: 600px) {
