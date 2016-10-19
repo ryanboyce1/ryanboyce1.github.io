@@ -41,7 +41,7 @@ li {
 
 .imgport3 {
     height:100px;
-    background: url("../images/progresss.jpg");
+    background: url("../img/h2one.png");
     background-position: center;
     background-size: cover;
 }
@@ -137,6 +137,17 @@ btn-lgr-str {
     margin-top: -100px;
 }
 
+
+.hubby {
+    
+    height:200px;
+}
+
+.samples {
+    
+    margin: 0 auto;
+    height: 500px;
+}
 
 @media (max-width: 600px) {
     .single-service {
