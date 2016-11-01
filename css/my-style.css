@@ -163,7 +163,8 @@ btn-lgr-str {
     
     }
     .services {
-        500px;
+        height: 500px;
+        
     }
 }
 
