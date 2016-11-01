@@ -149,9 +149,21 @@ btn-lgr-str {
     width:80%;
 }
 
+.pass {
+    width: 500px ;
+    margin: 0 auto;
+}
+
+.cert {
+    height: 175px;
+}
 @media (max-width: 600px) {
     .single-service {
-        height:300px;
+        height:200px;
+    
+    }
+    .services {
+        500px;
     }
 }
 
