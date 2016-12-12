@@ -321,6 +321,7 @@ h1, h2, h3, h4, h5, h6 {
 	height: 75%%;
 	background-position: 50% 50%;
 	background-repeat:no-repeat;
+    border-bottom: 5px solid #666666
 }
 
 #main-carousel .carousel-indicators { 
