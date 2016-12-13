@@ -610,10 +610,10 @@ h1, h2, h3, h4, h5, h6 {
     /*
   background-image: url("../images/ryangreencircle.jpg");
     */
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/ryangreencircle.jpg');
+
     
 background-color: rgba(0, 0, 0, 0.50);
-  color:#fff; 
+
   text-align:center;
   background-color:	#fff;
 }
