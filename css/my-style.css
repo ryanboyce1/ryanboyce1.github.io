@@ -178,6 +178,13 @@ btn-lgr-str {
     font-size:14px;
 }
 
+.lwvpng {
+    height: 80%;
+    width: 80%;
+  margin-left: auto;
+    margin-right:auto; 
+}
+
 /* SKILL BAR */
 
 .skillbar {

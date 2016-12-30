@@ -1,0 +1,36 @@
+.photo {
+    text-align:center;
+    width:100%;
+}
+
+h3 {
+    margin-top:50px;
+}
+
+.lwvphoto {
+    width:100%;
+}
+
+.copy {
+    text-align: left;
+}
+
+.intimg {
+    width:500px;
+}
+
+.twopar {
+
+    text-align:center;
+}
+
+.synopsis {
+    
+    margin-left:25px;
+    margin-right:25px;
+}
+
+hr {
+    border: 1px dashed gray;
+    
+}
